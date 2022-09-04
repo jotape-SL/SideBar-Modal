@@ -1,6 +1,12 @@
+<div align=center>
+
 # SideBar/Modal
 
 SideBar responsivo com um modal interativo. Feito como treino de React.
+
+</div>
+
+![image](https://user-images.githubusercontent.com/102804110/188294562-320259f4-3629-4f41-ab6a-ad170be47073.png)
 
 ## 🚀 Como executar o projeto
 
@@ -39,6 +45,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+- **[React](https://pt-br.reactjs.org/docs/getting-started.html)**
 
 ## ✒️ Autores
 
